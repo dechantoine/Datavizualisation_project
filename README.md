@@ -1,4 +1,4 @@
-# Datavizualisation_project
+# Datavizualisation project : house prices
 In this repository is a project of data visualization done during my studies at the UWS. My coworker and I chose to analyze the price of houses from a dataset obtained from
 Kaggle.
 
